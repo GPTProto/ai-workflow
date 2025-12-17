@@ -369,6 +369,16 @@ ai-workflow/
 
 <div align="center">
 
+## Links
+
+[![GPTProto](https://oss.heyoos.com/2025/11/13/3120d7cbe1b34a4eb20cc08032c81968.png?x-oss-process=image/format,webp/quality,q_100/resize,w_64,h_64,m_fill)](https://gptproto.com/)
+
+[GPT Proto](https://gptproto.com/) - AI Tools & Resources
+
+[GPT Proto AI API](https://gptproto.com/model) - OpenAI-compatible API Service
+
+---
+
 ## License
 
 **MIT License** © 2024
