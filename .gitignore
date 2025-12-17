@@ -1,0 +1,82 @@
+.claude
+.claude/
+.mcp
+.mcp.json
+.history
+.vscode
+node_modules
+.env.local
+.env
+.env.development.local
+.env.production.local
+.env.test.local
+.env.test
+.env.production
+.env.development
+.env.test
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+/dist
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*.local
+
+# vercel
+.vercel
+
+# flowbite-react
+.flowbite-react/
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# lock
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# i18n
+messages/*.d.json.ts
+messages/*.json.backup
+
+# deploy
+.next-prod/
+standalone-*.tar.gz
+
+# electron
+/release
+/dist
+*.dmg
+*.exe
+*.AppImage
